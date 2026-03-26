@@ -14,15 +14,15 @@ const siteContent = {
   tagline: "12-hour simmered broths. Fresh herbs. Handmade noodles. A taste of Vietnam in every bowl.",
   cuisine: "Authentic Vietnamese",
   location: "Roseville, CA",
-  established: "2024",
+  established: "2026",
 
   // ─── CONTACT ───
   address: {
-    street: "1780 Pleasant Grove Blvd",
-    suite: "Suite 130",
+    street: "9999 Pleasant Grove Blvd",
+    suite: "Suite 999",
     city: "Roseville, CA 95747",
   },
-  phone: "(916) 555-0188",
+  phone: "(916) 111-1111",
   email: "hello@saigonkitchen.com",
 
   // ─── HOURS ───
