@@ -7,11 +7,11 @@ const siteContent = {
   established: "2024",
 
   address: {
-    street: "1240 Galleria Blvd",
-    suite: "Suite 120",
-    city: "Roseville, CA 95678",
+    street: "1234 Roseville Rd.",
+    suite: "",
+    city: "Roseville, CA 95747",
   },
-  phone: "(916) 555-0142",
+  phone: "(916) 832-0195",
   email: "hello@emberandbloom.com",
 
   hours: [
